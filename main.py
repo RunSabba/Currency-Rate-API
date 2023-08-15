@@ -1,4 +1,4 @@
-#Script to get top-headlines from a specific county. Using Japan for an example.
+#Script to get top-headlines from a specific county. Using Japan for an example
 
 import requests
 
